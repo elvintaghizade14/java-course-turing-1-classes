@@ -1,0 +1,8 @@
+1. IDE: IntelliJ Idea Ultimate/Community https://www.jetbrains.com
+2. Slack: https://slack.com
+3. Git: https://git-scm.com/downloads
+
+4. JDK (not JRE!):
+https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Google: [JDK 8 or 11 download oracle]
+Actually we need any JDK8+, I am using JDK-11.0.17
