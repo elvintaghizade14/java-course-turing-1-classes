@@ -1,0 +1,17 @@
+1. create GitHub account
+2. create a repo
+3. enable VCS in Intellij IDEA
+4. Git -> VCS -> Manage Remotes -> add remote link
+5. Use commands:
+    - git init  (send)
+    - git clone (get)
+    - git status
+
+    * before send:
+        - git add .
+        - git commit -m "your message here"
+        - git push origin main/master
+
+    * for get repo:
+        - git clone (only 1st time)
+        - git pull
