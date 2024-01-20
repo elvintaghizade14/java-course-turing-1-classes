@@ -50,4 +50,4 @@ operator (%)?
 14. Which type casting direction can result in a `loss of data`?
 ---
 
-[`© Elvin Taghizade`](elvintaghiyev184@gmail.com)
+[`© Elvin Taghizade`](mailto:elvintaghiyev184@gmail.com)

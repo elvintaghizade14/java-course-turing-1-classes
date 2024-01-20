@@ -65,4 +65,4 @@ the console
 12. How many `variables/counters` can fit in a `for` loop?
 ---
 
-[`© Elvin Taghizade`](elvintaghiyev184@gmail.com)
+[`© Elvin Taghizade`](mailto:elvintaghiyev184@gmail.com)
