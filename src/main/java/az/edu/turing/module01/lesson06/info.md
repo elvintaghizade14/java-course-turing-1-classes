@@ -1,5 +1,4 @@
 # Control Flow
-    - Input from console - Scanner class
     - Code structure: 	input -> process -> output
     - Conditional statements
         - if
