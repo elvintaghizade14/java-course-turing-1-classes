@@ -1,5 +1,5 @@
 # Arrays
-# The task is
+# The task is:
 
 Write a program called "numbers", which makes a random number and offers the player to guess it.
 
