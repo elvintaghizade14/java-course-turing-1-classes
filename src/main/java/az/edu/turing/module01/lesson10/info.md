@@ -1,4 +1,4 @@
-# Stringclass
+# String
     - Character array and understanding String
     - String under the hood
     - Methods of String class (some)
