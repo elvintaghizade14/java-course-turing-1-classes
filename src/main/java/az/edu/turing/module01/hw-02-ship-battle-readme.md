@@ -1,5 +1,5 @@
 # Arrays
-# The task is
+# The task is as follows
 
 Write a program called "shooting at the square."
 
