@@ -8,5 +8,5 @@
         * StringBuilder
         * StringBuffer
         * Comparison of above solutions
-    - Thread safety
     - Immutability
+    - Thread safety
