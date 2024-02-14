@@ -1,0 +1,11 @@
+# Introduction / Software Setup
+    - Introduction to ICT (Career plan)
+    - Syllabus introduction & course procedures
+    - Requirements
+    - Basics of ICT
+    - Information in digital form, number systems, binary system
+    - What is programming?
+    - Introduction to Programming
+    - Algorithmic thinking, reasoning
+    - What are Programming Languages (PLs)?
+    - How to choose a PL to learn?
