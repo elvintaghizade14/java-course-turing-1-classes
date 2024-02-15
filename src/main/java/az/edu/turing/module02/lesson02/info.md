@@ -1,11 +1,10 @@
-# Introduction / Software Setup
-    - Introduction to ICT (Career plan)
-    - Syllabus introduction & course procedures
-    - Requirements
-    - Basics of ICT
-    - Information in digital form, number systems, binary system
-    - What is programming?
-    - Introduction to Programming
-    - Algorithmic thinking, reasoning
-    - What are Programming Languages (PLs)?
-    - How to choose a PL to learn?
+# Object-Oriented Programming (OOP) #2
+    - Types of variables
+        - Instance variables
+        - Local variables
+        - Static (global) variables
+    - Static vs non-static methods and variables
+    - References/Garbage Collection
+    - Encapsualtion
+        - access modifiers (public, private)
+        - Getters and setters
