@@ -1,5 +1,6 @@
 # Object-Oriented Programming (OOP) #4
 
+    - UML diagrams for class designing
     - Inheritance
         - IS-A  relationship
         - HAS-A relationship
