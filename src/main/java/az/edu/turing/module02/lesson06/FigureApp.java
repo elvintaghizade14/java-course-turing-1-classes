@@ -1,12 +1,18 @@
 package az.edu.turing.module02.lesson06;
 
+import az.edu.turing.module02.lesson06.abstraction.Rectangle;
+
 public class FigureApp {
 
     public static void main(String[] args) {
         Circle circle1 = new Circle("Circle", "circle", 15);
         System.out.println(circle1);
         System.out.println(circle1.getRadius());
-        Figure figure1 = circle1;
+
+        Figure circle2 = new Circle("Circle", "circle", 12);
+        System.out.println(circle2.getName());
+        printNameOfFigure(circle2);
+
 
         Square square1 = new Square("Square", "square", 5);
         System.out.println(square1);
@@ -23,7 +29,7 @@ public class FigureApp {
 //        printNameOfFigure(human);
     }
 
-    private static void printNameOfFigureV1(Figure object) {
+    private static void printNameOfFigureV1(Object object) {
         if (object instanceof Circle) {
             Circle circle = (Circle) object;
             System.out.println(circle.getName());
@@ -41,4 +47,19 @@ public class FigureApp {
     private static void printNameOfFigure(Figure figure) {
         System.out.println(figure.getName());
     }
+    private static void printNameOfFigure(Circle circle) {
+        System.out.println(circle.getName());
+    }
+    private static void printNameOfFigure(Cube cube) {
+        System.out.println(cube.getName());
+    }
+    private static void printNameOfFigure(Square square) {
+        System.out.println(square.getName());
+    }
+    private static void printNameOfFigure(Human human) {
+        System.out.println(human.getName());
+    }
+
+
+
 }

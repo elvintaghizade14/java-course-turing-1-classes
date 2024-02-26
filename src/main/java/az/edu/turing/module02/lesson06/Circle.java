@@ -2,7 +2,7 @@ package az.edu.turing.module02.lesson06;
 
 import java.util.Objects;
 
-public class Circle extends Figure{
+public class Circle extends Figure {
 
     private double radius;
 
