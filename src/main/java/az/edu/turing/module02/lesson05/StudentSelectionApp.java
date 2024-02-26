@@ -1,18 +1,57 @@
 package az.edu.turing.module02.lesson05;
 
 import java.util.Arrays;
+import java.util.Random;
 
 public class StudentSelectionApp {
 
     public static void main(String[] args) {
+        //Description
+        // I also used Fisher-Yates shuffle algorithm for random seats here
+
+        String[] names = {
+                "Ali", "Aybaniz", "Aydan", "Bahruz", "Bashir",
+                "Eldar", "Farid H.", "Fariz K.", "Ilham", "Kanan",
+                "Nazrin", "Nurlan", "Selen", "Ismayil", "Vusal", "Leyla"
+        };
+
+        shuffleSeats(names);
+    }
+
+    public static void shuffleSeats(String [] students) {
+        Random rnd = new Random();
+        for (int i = students.length - 1; i > 0; i--) {
+            int index = rnd.nextInt(i + 1);
+            String temp = students[index];
+            students[index] = students[i];
+            students[i] = temp;
+        }
+        printResult(students);
+    }
+
+    public static void printResult(String[] students) {
+        for (int i = 0; i < students.length; i++) {
+            System.out.printf("Seat %d\t->\t %s\n", i, students[i]);
+        }
+    }
+
+    public static void main1(String[] args) {
         // input
         String[] students = populate();
-        int[] seats = new int[17];
+        Integer[] seats = new Integer[17];
 
         // process
+        int counter = 0;
         int size = students.length;
         for (int i = 0; i < size; i++) {
-            // todo: solve the problem!
+            int randomSeat;
+            while (counter != 17) {
+                randomSeat = new Random().nextInt(size);
+                if (seats[randomSeat] == null) {
+//                    seats[randomSeat]
+                    counter++;
+                }
+            }
         }
 
         // output
@@ -41,7 +80,7 @@ public class StudentSelectionApp {
         };
     }
 
-    private static void print(String[] students, int[] seats) {
+    private static void print(String[] students, Integer[] seats) {
         System.out.println(Arrays.toString(seats));
 
         for (int i = 0; i < students.length; i++) {
