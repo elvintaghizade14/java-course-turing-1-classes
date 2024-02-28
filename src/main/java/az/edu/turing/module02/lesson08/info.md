@@ -2,4 +2,3 @@
 
     - Interfaces
     - Abstract classes vs Interfaces
-    - Functional & Marker Interfaces
