@@ -64,7 +64,7 @@ in the array - a new array should be created.
     - The static block should display the information that a new class is being loaded (specify the class name).
     - The non-static block should display information that a new object is created (specify the object type).
 
-#### Литература:
+#### Literature:
 
 - [Encapsulation. Getters/setters](https://www.geeksforgeeks.org/encapsulation-in-java/)
 - [Method Overloading(https://beginnersbook.com/2013/05/method-overloading/)
