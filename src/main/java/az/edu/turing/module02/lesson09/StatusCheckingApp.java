@@ -2,10 +2,6 @@ package az.edu.turing.module02.lesson09;
 
 import java.util.Scanner;
 
-import static az.edu.turing.module02.lesson09.OrderStatus.ACCEPTED;
-import static az.edu.turing.module02.lesson09.OrderStatus.DELIVERED;
-import static az.edu.turing.module02.lesson09.OrderStatus.SHIPPED;
-
 public class StatusCheckingApp {
 
     public static void main(String[] args) {
