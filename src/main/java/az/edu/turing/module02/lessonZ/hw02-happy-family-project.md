@@ -67,7 +67,7 @@ in the array - a new array should be created.
 #### Literature:
 
 - [Encapsulation. Getters/setters](https://www.geeksforgeeks.org/encapsulation-in-java/)
-- [Method Overloading(https://beginnersbook.com/2013/05/method-overloading/)
+- [Method Overloading](https://beginnersbook.com/2013/05/method-overloading/)
 - [Overriding equals() and hashcode()](https://www.mkyong.com/java/java-how-to-overrides-equals-and-hashcode/)
 - [Comparing Java objects with equals() and hashcode()](https://www.javaworld.com/article/3305792/learn-java/java-challengers-4-comparing-java-objects-with-equals-and-hashcode.html)
 - [Java Best Practices: equals() and hashCode()](https://www.intigua.com/blog/good-and-bad-equals-and-hashcode)
