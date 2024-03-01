@@ -13,7 +13,7 @@ public class StatusCheckingApp {
 
         OrderStatusEnum statusEnum = OrderStatus.findStatusV2(status);
         System.out.println(statusEnum);
-        sendEmail(statusEnum);
+//        sendEmail(statusEnum);
     }
 
     /*private static void sendEmail(OrderStatusEnum status) {
