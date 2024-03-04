@@ -1,3 +1,9 @@
 # Object-Oriented Programming (OOP) #10
 
-## todo fill lesson10's topics
+    - recursive immutability
+    - LocalDate
+    - LocalTime
+    - LocalDateTime
+    - Date vs LocalDate
+    - java.util.Date vs java.sql.Date
+    - OOP recap
