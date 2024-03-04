@@ -11,7 +11,7 @@ public class StudentSelectionApp {
 
         String[] names = {
                 "Ali", "Aybaniz", "Aydan", "Bahruz", "Bashir",
-                "Eldar", "Farid H.", "Fariz K.", "Ilham", "Kanan",
+                "Eldar", "Farid H.", "Ferid K.", "Ilham", "Kanan",
                 "Nazrin", "Nurlan", "Selen", "Ismayil", "Vusal", "Leyla"
         };
 
@@ -31,7 +31,7 @@ public class StudentSelectionApp {
 
     public static void printResult(String[] students) {
         for (int i = 0; i < students.length; i++) {
-            System.out.printf("Seat %d\t->\t %s\n", i, students[i]);
+            System.out.printf("Seat %d\t->\t %s\n", i+1, students[i]);
         }
     }
 
