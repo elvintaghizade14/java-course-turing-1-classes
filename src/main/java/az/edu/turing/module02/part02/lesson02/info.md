@@ -1,3 +1,13 @@
-# Object-Oriented Programming (OOP) #12
+# Module02 Part02
 
-## todo fill lesson12's topics
+## Lesson02
+
+    - Generics & Optional
+    - Need for Generics
+    - Diamond operator
+    - Type wildcards (lower and upper bounds)
+    - Generic class definitions
+    - Generic method definitions
+    - Optional class and its usage
+    - Introduction to Functional Programming
+    - Method chaining strategy
