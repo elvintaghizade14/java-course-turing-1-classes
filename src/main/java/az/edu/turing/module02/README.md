@@ -6,7 +6,7 @@
 
 ### Step-by-step tasks:
 
-1. [hw01-happy-family-project.md](lessonZ/hw01-happy-family-project.md)
-2. [hw02-happy-family-project.md](lessonZ/hw02-happy-family-project.md)
-3. [hw03-happy-family-project.md](lessonZ/hw03-happy-family-project.md)
-4. [hw04-happy-family-project.md](lessonZ/hw04-happy-family-project.md)
+1. [hw01-happy-family-project.md](tasks/hw01-happy-family-project.md)
+2. [hw02-happy-family-project.md](tasks/hw02-happy-family-project.md)
+3. [hw03-happy-family-project.md](tasks/hw03-happy-family-project.md)
+4. [hw04-happy-family-project.md](tasks/hw04-happy-family-project.md)
