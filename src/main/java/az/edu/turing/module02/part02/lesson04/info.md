@@ -3,14 +3,14 @@
 ## Lesson04
 
     - Common Functional Interfaces
-        - Comparable<T>  
-        - Comparator<T>  
         - Supplier<R>
         - Consumer<T>
-        - BiConsumer<T, U>
-        - Function<T, R> 
-        - BiFunction<T, U, R> 
         - Predicate<T>   
+        - Comparable<T>  
+        - Comparator<T>  
+        - Function<T, R> 
+        - BiConsumer<T, U>
+        - BiFunction<T, U, R> 
     - Lambda expressions
     - Method references
 
