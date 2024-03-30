@@ -6,7 +6,7 @@
     - Arrays.sort()
     - Comparable vs Comparator
     - Functional Interfaces
-    - Lambda expressions
-    - Method references
+        - anonymous classes
+        - anonymous methods
 
     - Problem must be solved: https://www.hackerrank.com/challenges/java-comparator/problem
