@@ -2,15 +2,16 @@
 
 ## Lesson04
 
-- Introduction to Algorithms
-- Introduction to complexity analysis
-- Notations
-    - Worth case scenario (Big O)
-    - Best case scenario (Big Omega)
-- Searching
-    - Linear search
-    - Binary search
-- Sorting
-    - Bubble sort
-    - Selection sort
-    - Merge sort
+    - Common Functional Interfaces
+        - Comparable<T>  
+        - Comparator<T>  
+        - Supplier<R>
+        - Consumer<T>
+        - BiConsumer<T, U>
+        - Function<T, R> 
+        - BiFunction<T, U, R> 
+        - Predicate<T>   
+    - Lambda expressions
+    - Method references
+
+https://www.educative.io/answers/a-list-of-all-the-functional-interfaces-in-java
