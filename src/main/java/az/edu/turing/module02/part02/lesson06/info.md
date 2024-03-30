@@ -1,6 +1,6 @@
 # Module02 Part02
 
-## Lesson0
+## Lesson06
 
 - Introduction to Data Structures
     - Collections API
