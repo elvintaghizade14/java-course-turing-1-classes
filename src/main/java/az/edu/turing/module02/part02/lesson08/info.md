@@ -9,3 +9,5 @@
     - FileReader and FileWriter  file operations
     - BufferedReader and BufferedWriter file operations
     - File reading and writing with “nio” (Files, Paths...)
+    - Try-with-finally (in files)
+    - Try-with-resources (in files)
