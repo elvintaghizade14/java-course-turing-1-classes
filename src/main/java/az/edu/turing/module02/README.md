@@ -16,3 +16,4 @@
 8. [hw08-happy-family-project.md](tasks/hw08-happy-family-project.md)
 9. [hw09-happy-family-project.md](tasks/hw09-happy-family-project.md)
 10. [hw010-happy-family-project.md](tasks/hw10-happy-family-project.md)
+11. [step-project.md](tasks/step-project-module02.md)
