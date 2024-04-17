@@ -11,3 +11,12 @@
     - File reading and writing with “nio” (Files, Paths...)
     - Try-with-finally (in files)
     - Try-with-resources (in files)
+
+- Introduction to Java Stream API
+- Source -> Intermediate -> Terminal operations
+- Input -> Process -> Output
+- Controller -> Service -> DAO
+- Build tools & packaging
+  - Maven
+  - Gradle
+- Step Project Introduction
