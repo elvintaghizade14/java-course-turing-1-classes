@@ -2,11 +2,12 @@
 
 ## Lesson09
 
-- Serialization, Reflection
-    - Serialization, object streams
-    - Writing object into file (text vs object)
-    - Binary vs XML vs JSON serialization
-    - Transient keyword and its mechanism
-    - Introduction to Reflection API
-    - Java class object, fields, methods, constructors
-    - Dynamic invocation, annotations
+- File Input/Output (IO)
+    - File reading and writing with “io”
+    - Input, output, error with System class (in, out, err)
+    - Character streams vs byte streams
+    - FileReader and FileWriter file operations
+    - BufferedReader and BufferedWriter file operations
+    - File reading and writing with “nio” (Files, Paths...)
+    - Try-with-finally (in files)
+    - Try-with-resources (in files)
