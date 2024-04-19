@@ -9,3 +9,7 @@
 - Build tools & packaging
     - Maven
     - Gradle
+
+https://www.baeldung.com/java-8-streams
+https://stackify.com/streams-guide-java-8/
+https://www.geeksforgeeks.org/stream-in-java/
