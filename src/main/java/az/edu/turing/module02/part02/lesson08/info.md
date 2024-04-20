@@ -6,9 +6,6 @@
 - Source -> Intermediate -> Terminal operations
 - Input -> Process -> Output
 - Controller -> Service -> DAO
-- Build tools & packaging
-    - Maven
-    - Gradle
 
 https://www.baeldung.com/java-8-streams
 https://stackify.com/streams-guide-java-8/
