@@ -2,11 +2,9 @@
 
 ## Lesson10
 
-- Serialization, Reflection
+- File IO
+    - Character streams vs byte streams
+- Serialization
     - Serialization, object streams
-    - Writing object into file (text vs object)
     - Binary vs XML vs JSON serialization
     - Transient keyword and its mechanism
-    - Introduction to Reflection API
-    - Java class object, fields, methods, constructors
-    - Dynamic invocation, annotations
