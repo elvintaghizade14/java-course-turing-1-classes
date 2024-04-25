@@ -7,11 +7,8 @@
     - Java class object, fields, methods, constructors
     - Dynamic invocation, annotations
 
-- Multithreading
-    - Introduction to multithreading, process vs thread vs task
-    - Thread class
-    - Runnable interface
-    - Callable interface
-    - Execution service
-    - Concurrency API
-    - Atomic Scalars
+- Build tools & packaging
+    - Maven
+    - Gradle
+
+- Controller -> Service -> DAO
