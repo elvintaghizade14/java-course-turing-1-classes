@@ -2,8 +2,13 @@
 
 ## Lesson0
 
-- Build tools & packaging
-    - Maven
-    - Gradle
-- Step Project
+- Multithreading
+    - Introduction to multithreading, process vs thread vs task
+    - Thread class
+    - Runnable interface
+    - Callable interface
+    - Execution service
+    - Concurrency API
+    - Atomic Scalars
+- Step Project Intro
 - Module02 exam preparation
