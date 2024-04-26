@@ -1,0 +1,1 @@
+{"pin":"ABC1234","password":"admin123","grade":0.0,"age":16,"studentId":603737}
