@@ -59,15 +59,15 @@ The main menu which the passenger sees upon opening the module_01.app should hav
 - When exiting the application, all the changes must be written to the save file. When restarting the application, the
   collections in DAO must be re-initialized with data from the save file.
 
-#### The task for student №1
+#### The task for studentEntity №1
 
 - Create a class to work with the console
 
-#### The task for student №2
+#### The task for studentEntity №2
 
 - Create a controller, a service and DAO for the flights
 
-#### The task for student №3
+#### The task for studentEntity №3
 
 - Create a controller, a service and DAO for the bookings
 
