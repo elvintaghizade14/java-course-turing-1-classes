@@ -1,6 +1,6 @@
 # Module01 - Fundamentals of Programming with Java PL
 
-[Module01 syllabus here](../_general/be-01-02-modules-javase-syllabus.pdf)
+[Module01 Syllabus Here](../_general/be-module01-fundamentals-syllabus.pdf)
 
 ### Module01 tasks must be completed 
 [hw-01-number-guess-readme.md](lessonZ/hw-01-number-guess-readme.md)
