@@ -1,6 +1,6 @@
 # Module02 - Java SE
 
-[be-01-02-modules-javase-syllabus.pdf](../_general/be-01-02-modules-javase-syllabus.pdf)
+[Module02 Syllabus Here](./../_general/be-module02-javase-java8-syllabus.pdf)
 
 ## Mini-project: "A Happy Family"
 
