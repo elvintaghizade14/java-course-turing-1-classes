@@ -1,5 +1,5 @@
 CREATE
-    DATABASE console;
+DATABASE console;
 
 -- DROP DATABASE "booking-ui";
 
@@ -17,9 +17,7 @@ FROM people;
 
 -- DROP TABLE people;
 
-ALTER TABLE people
-    ALTER
-        COLUMN person_id TYPE bigint;
+ALTER TABLE people ALTER COLUMN person_id TYPE bigint;
 
 INSERT INTO people
 VALUES (5, 'Taghizade', 'Elvin2', 'Nowhere', 'ISMAYILLI');
