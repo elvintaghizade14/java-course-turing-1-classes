@@ -1,3 +1,10 @@
 # Module03
 
-## Lesson01
+## Lesson03 - SQL Constraints
+
+    - Quiz & Practice
+
+    - NOT NULL / UNIQUE / AUTO INCREMENT / PRIMARY KEY
+    - CHECK / DEFAULT / INDEX / FOREIGN KEY
+    - Relational database modeling
+    - Entity Relationship Diagrams (ERDs)
