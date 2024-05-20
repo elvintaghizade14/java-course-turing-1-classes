@@ -1,5 +1,11 @@
-CREATE
-DATABASE console;
+-- Commands:
+-- CREATE DATABASE / SCHEMA / TABLE
+-- DROP DATABASE / SCHEMA / TABLE
+-- ALTER DATABASE / SCHEMA / TABLE
+-- SELECT / SELECT DISTINCT / INSERT INTO
+
+
+CREATE DATABASE console;
 
 -- DROP DATABASE "booking-ui";
 
@@ -12,8 +18,7 @@ CREATE TABLE people
     city      varchar(255)
 );
 
-SELECT *
-FROM people;
+SELECT * FROM people;
 
 -- DROP TABLE people;
 
@@ -25,15 +30,10 @@ VALUES (5, 'Taghizade', 'Elvin2', 'Nowhere', 'ISMAYILLI');
 INSERT INTO people(lastname, firstname)
 VALUES ('Taghizade2', 'Elvin2');
 
-SELECT DISTINCT(lastname)
-from people;
+SELECT DISTINCT(lastname) from people;
 
-SELECT *
-FROM people
-WHERE city IS NOT NULL
-  AND person_id = 1;
+SELECT * FROM people
+WHERE city IS NOT NULL AND person_id = 1;
 
-SELECT *
-FROM people
-ORDER BY firstname DESC
+SELECT * FROM people ORDER BY firstname DESC
 --                          person_id DESC;
