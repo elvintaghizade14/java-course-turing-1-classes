@@ -6,3 +6,5 @@
     - Basic docker commands, docker under the hood, docker hub
     - Network modes for docker apps
     - Quiz & Practice
+    - Practice: Booking Application with Postgres db 
+    - Module 03 Final Exam prep
