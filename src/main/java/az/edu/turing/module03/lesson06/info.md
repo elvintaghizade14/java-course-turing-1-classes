@@ -1,10 +1,14 @@
 # Module03
 
-## Lesson06 - Virtualization, VMs, Containerization, Docker
+## Lesson06 - JDBC
 
-    - Create postgres docker containers and connect to it from java app
-    - Basic docker commands, docker under the hood, docker hub
-    - Network modes for docker apps
+    - Introduction to JDBC API
+    - Drivers
+    - Connection
+    - Statements
+        - Create Statements
+        - Prepared Statements
+        - Callable Statements
+    - ResultSets
+    - JDBC transactions, auto-commit
     - Quiz & Practice
-    - Practice: Booking Application with Postgres db 
-    - Module 03 Final Exam prep
