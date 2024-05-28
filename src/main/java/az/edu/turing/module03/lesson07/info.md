@@ -1,6 +1,6 @@
 # Module03
 
-## Lesson06 - Virtualization, VMs, Containerization, Docker
+## Lesson07 - Virtualization, VMs, Containerization, Docker
 
     - Create postgres docker containers and connect to it from java app
     - Basic docker commands, docker under the hood, docker hub
