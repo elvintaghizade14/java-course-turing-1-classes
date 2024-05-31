@@ -1,6 +1,6 @@
 # Module03
 
-## Lesson08 - SQL finalize
+## Lesson08 - SQL continued
 
     - Transactions, rollback & auto-commit
     - Quiz & Practice
