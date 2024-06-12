@@ -7,4 +7,4 @@
 [happy-family-step-project](./tasks/happy-family-step-project)
 
 ## Mini-project: "Tinder Project"
-[tinder-app-step-project](./tasks/tinder-app-step-project.md)
+[tinder-app-step-project](./tasks/booking-app-step-project-with-db)
