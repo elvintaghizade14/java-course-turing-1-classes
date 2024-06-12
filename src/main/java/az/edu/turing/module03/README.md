@@ -6,5 +6,5 @@
 
 [happy-family-step-project](./tasks/happy-family-step-project)
 
-## Mini-project: "Tinder Project"
-[tinder-app-step-project](./tasks/booking-app-step-project-with-db)
+## Mini-project: "Booking Project"
+[booking-app-step-project-with-db](./tasks/booking-app-step-project-with-db)
