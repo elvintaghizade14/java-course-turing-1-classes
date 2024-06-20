@@ -1,0 +1,1 @@
+# Migrate Booking application into Java EE, after that into Spring Boot app
