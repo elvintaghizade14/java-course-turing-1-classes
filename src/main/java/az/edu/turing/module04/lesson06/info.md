@@ -1,3 +1,6 @@
 # Module04
 
-## Lesson0  - 
+## Lesson06 - Demo apps with REST services & JDBC
+
+    - Booking app
+    - Tinder app
