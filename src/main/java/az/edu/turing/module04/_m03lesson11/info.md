@@ -8,7 +8,3 @@
     - Browsers, HTTP(s), DNS
     - HttpRequest, HttpResponse
     - Server, Handler, Mapping, Servlet
-    - Basic app with Java EE
-        - Netty Server
-        - Servlets
-        - ServletContextHandler
