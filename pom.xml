@@ -28,7 +28,7 @@
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
-            <version>RELEASE</version>
+            <version>6.0.0-M1</version>
             <scope>test</scope>
         </dependency>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
@@ -63,12 +63,12 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.4.28.v20200408</version>
+            <version>9.4.57.v20241219</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlet</artifactId>
-            <version>9.4.28.v20200408</version>
+            <version>9.4.57.v20241219</version>
         </dependency>
 
     </dependencies>
